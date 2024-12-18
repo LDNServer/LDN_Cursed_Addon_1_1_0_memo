@@ -29,6 +29,7 @@
 - YY ☑
 - Entity787 ☑
 - NoName ☑
+- Vill
 ### アイテム
 - グレーエンダーパール ☑
 - Entity787の鎌 ☑
